@@ -3,6 +3,7 @@ icon: cloud
 cover: .gitbook/assets/filo landscape both transparent.png
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
     size: full
@@ -16,9 +17,15 @@ layout:
     visible: false
   pagination:
     visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# welcome
+# filo.studios.
 
 ### ✦ Welcome to filo studios
 
@@ -26,5 +33,5 @@ Welcome to the official documentation for filo studios! We are thrilled to have 
 
 ### ✦ Links
 
-[Browse filo studios' Tebex Store](https://filostudios.tebex.io/)\
-[Join filo studios' Discord Server](https://discord.gg/qZSMWxjDgF)
+Tebex: [https://filo-studios.tebex.io](https://filo-studios.tebex.io/)\
+Discord: [https://discord.gg/BYrsRXwSCd](https://discord.gg/BYrsRXwSCd)
