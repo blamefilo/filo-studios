@@ -25,13 +25,6 @@ layout:
     visible: true
 ---
 
-# filo.studios.
+# Deprecated
 
-### ✦ Welcome to filo studios
-
-Welcome to the official documentation for filo studios! We are thrilled to have you here. At filo studios, we specialize in creating high-quality FiveM scripts designed to enhance your gaming experience and bring your server to life.
-
-### ✦ Links
-
-Tebex: [https://filo-studios.tebex.io](https://filo-studios.tebex.io/)\
-Discord: [https://discord.gg/BYrsRXwSCd](https://discord.gg/BYrsRXwSCd)
+### The documentation for filo studios has been moved to [https://blamefilo.github.io/](https://blamefilo.github.io/)
